@@ -25,6 +25,6 @@ This is a comprehensive and efficient web tool specifically designed for educati
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/Osama-hammam/Student-Management-System-Project.git
     ```
 2.  **Open `index.html`:** Simply open the `index.html` file in your web browser.
